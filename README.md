@@ -1,7 +1,6 @@
 ## ( ͡° ‿‿ ͡°)✌
 
-Hi, I'm Hung 👋  
-I'm a Computer Science & Applied Mathematics student at the University of Utah. I'm into backend systems, algorithms (and a bit of AI)!
+Hi, I'm Hung! I'm a Computer Science & Applied Mathematics student at the University of Utah. I'm into backend systems, algorithms (and a bit of AI)!
 
 My current tech stack: 
 - **Languages:** C++, Python, C#, Java, Go, SQL, TypeScript  
